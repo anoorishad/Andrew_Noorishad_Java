@@ -1,0 +1,13 @@
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/repository/LabelRepository.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/repository/TrackRepository.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/model/Track.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/controller/AlbumController.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/repository/AlbumRepository.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/controller/ArtistController.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/MusicstoreCatalogApplication.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/model/Album.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/model/Artist.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/controller/TrackController.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/model/Label.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/repository/ArtistRepository.java
+/Users/andrewnoorishad/Desktop/Cognizant Assignments/Project-02-Music-Store-Application/musicstore-catalog/app/src/main/java/com/musicstore/musicstorecatalog/controller/LabelController.java
